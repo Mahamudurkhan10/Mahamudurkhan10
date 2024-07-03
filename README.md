@@ -4,7 +4,6 @@
 
 👋 Hi there! I’m Mahamudur Khan, a passionate web developer who loves building dynamic and user-friendly websites and applications. I enjoy creating projects that make life easier for developers, including tools for better GitHub profiles.
 
-Language and skills:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
